@@ -6,33 +6,27 @@ package Entidades;
  * @author Pablo César
  */
 public class Caballo {
-    private String color, sonido, raza;
-    private int edad;
+    private String nombre;
+    private String raza;
+    private String color;
+    private Integer edad;
 
     public Caballo() {
     }
 
-    public Caballo(String color, String sonido, String raza, int edad) {
-        this.color = color;
-        this.sonido = sonido;
+    public Caballo(String nombre, String raza, String color, Integer edad) {
+        this.nombre = nombre;
         this.raza = raza;
+        this.color = color;
         this.edad = edad;
     }
 
-    public String getColor() {
-        return color;
+    public String getNombre() {
+        return nombre;
     }
 
-    public void setColor(String color) {
-        this.color = color;
-    }
-
-    public String getSonido() {
-        return sonido;
-    }
-
-    public void setSonido(String sonido) {
-        this.sonido = sonido;
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
     }
 
     public String getRaza() {
@@ -43,17 +37,25 @@ public class Caballo {
         this.raza = raza;
     }
 
-    public int getEdad() {
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+    }
+
+    public Integer getEdad() {
         return edad;
     }
 
-    public void setEdad(int edad) {
+    public void setEdad(Integer edad) {
         this.edad = edad;
     }
 
     @Override
     public String toString() {
-        return "Caballo{" + "color=" + color + ", sonido=" + sonido + ", raza=" + raza + ", edad=" + edad + '}';
+        return "Caballo{" + "nombre=" + nombre + ", raza=" + raza + ", color=" + color + ", edad=" + edad + '}';
     }
     
     
