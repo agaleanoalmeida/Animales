@@ -6,6 +6,10 @@ public class Gato {
     private String color;
     private String raza;
     private int edad;
+<<<<<<< HEAD
+    
+    
+=======
 
     public Gato() {
     }
@@ -54,4 +58,5 @@ public class Gato {
         return "Gato{" + "nombre=" + nombre + ", color=" + color + ", raza=" + raza + ", edad=" + edad + '}';
     }
 
+>>>>>>> 173f151550461a78eddad4ee97eb7ea594a8d619
 }

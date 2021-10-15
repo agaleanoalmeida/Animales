@@ -3,9 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/C:/Users/Agustin/Desktop/Animales/src/Entidades/Gato.java</file>
             <file>file:/C:/Users/Agustin/Desktop/Animales/src/Entidades/Caballo.java</file>
             <file>file:/C:/Users/Agustin/Desktop/Animales/src/Main/Main.java</file>
+=======
+            <file>file:/C:/Users/cesar/Documents/EGG_Programming_Career/Module%5B04%5D%20-%20GIT/repositories/ejercicio4grupal/Animales/src/Main/Main.java</file>
+            <file>file:/C:/Users/cesar/Documents/EGG_Programming_Career/Module%5B04%5D%20-%20GIT/repositories/ejercicio4grupal/Animales/src/Entidades/Gato.java</file>
+            <file>file:/C:/Users/cesar/Documents/EGG_Programming_Career/Module%5B04%5D%20-%20GIT/repositories/ejercicio4grupal/Animales/src/Entidades/Caballo.java</file>
+        </group>
+        <group name="Herencia">
+            <file>file:/C:/Users/nicov/Documents/NetBeansProjects/Git/src/Entidades/Gato.java</file>
+>>>>>>> 0f0e31f975e15e20a97793fecdb78ef11d0b3ab6
         </group>
     </open-files>
 </project-private>
